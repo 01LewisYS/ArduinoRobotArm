@@ -1,15 +1,21 @@
-# Arduino Robot Arm (Ver. 1)
+# Arduino Robot Arm 
 ## Table of Contents
 * [Gerenal Info](#general-info)
 * [FAQ](#faq)
 * [Important Notice](#important-notice)
 
 ## General Info
-1) Function of Robot Arm (ver. 1): Able to extend out to pick up a 100N Load, then drop it off at the same location.
-2) Left servo (servoL) controls the height of clamp from the ground. 
-3) Right servo (servoR) controls the horizontal retraction and extension of the robot arm.
-4) Base servo (servoB) controls the rotation of the entire robot arm, so that the gripper/clamp can face any direction.
-5) Clamp servo (servoC) of robot arm controls the opening and closing of clamp. 
+Function of Robot Arm (ver. 1): 
+* Picks up a 100N object at a location, and dropping it off the object at the _same_ location.
+
+Function of Robot Arm (ver. 2):
+* Picks up a 100N object at a location, but drops off the object at a _different_ location by rotating itself to a different direction for drop off.
+
+Micro Servos & Functions:
+1) Left servo (servoL) controls the height of clamp from the ground. 
+2) Right servo (servoR) controls the horizontal retraction and extension of the robot arm.
+3) Base servo (servoB) controls the rotation of the entire robot arm, so that the gripper/clamp can face any direction.
+4) Clamp servo (servoC) of robot arm controls the opening and closing of clamp. 
 
 ## FAQ
 1) Which one is the "Left servo"? Which one is the "Right servo"?
