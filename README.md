@@ -5,7 +5,7 @@
 * [Important Notice](#important-notice)
 
 ## General Info
-1) Function: Able to extend out to pick up a 100N Load, then drop it off at the same location.
+1) Function of Robot Arm (ver. 1): Able to extend out to pick up a 100N Load, then drop it off at the same location.
 2) Left servo (servoL) controls the height of clamp from the ground. 
 3) Right servo (servoR) controls the horizontal retraction and extension of the robot arm.
 4) Base servo (servoB) controls the rotation of the entire robot arm, so that the gripper/clamp can face any direction.
