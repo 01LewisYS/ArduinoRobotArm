@@ -23,7 +23,7 @@ Answer: Base servo is the servo that's between the left & right servos (other th
 ## Important Notice
 This program will only work properly if:
   1) The robot arm was built using this instruction manual guide: https://static.rapidonline.com/pdf/75-0040_v1.pdf
-  2) All your servos are calibrated as such before/during the construction of your Robot Arm:
+  2) All micro servos were calibrated as such before/during the construction of your Robot Arm:
   ```
   servoB.write(90);
   servoL.write(90);
