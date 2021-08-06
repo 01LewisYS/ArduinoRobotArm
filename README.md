@@ -1,14 +1,14 @@
-# Arduino Robot Arm 
+# Arduino Robot Arm (Mark I & Mark II)
 ## Table of Contents
 * [Gerenal Info](#general-info)
 * [FAQ](#faq)
 * [Important Notice](#important-notice)
 
 ## General Info
-Function of Robot Arm (ver. 1): 
+Function of Robot Arm (Mark I): 
 * Picks up a 100N object at a location, and dropping it off the object at the _same_ location.
 
-Function of Robot Arm (ver. 2):
+Function of Robot Arm (Mark II):
 * Picks up a 100N object at a location, but drops off the object at a _different_ location by rotating itself to a different direction for drop off.
 
 Micro Servos & Functions:
