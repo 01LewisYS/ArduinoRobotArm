@@ -1,8 +1,4 @@
 /*Note:
-  Q: Which one is "Left Servo"? Which one is "Right Servo"?
-  Ans: Look at your computer screen. Now, position the robot arm so that the robot arm's clamp/gripper also faces the computer screen.
-       Now look at your robot arm, the leftmost servo is the Left Servo, and the rightmost servo is the Right Servo.
-  
   Left servo (servoL) controls the height of clamp from ground. 
   As n in servo.write(n) increases, height from ground increases.
   
@@ -18,17 +14,6 @@
 
   Clamp servo (servoC) controls the opening and closing of clamp. 
   Increasing n of servoC.write(n) closes clamp more, while decreasing n opens the clamp more.
-
-  IMPORTANT NOTICE (!):
-  This program will only work properly if:
-  1) All your servos are calibrated as such during the construction of your Robot Arm:
-  servoB.write(90);
-  servoL.write(90);
-  servoR.write(90);
-  servoC.write(25);
-
-  2) You built your robot arm using this instruction manual guide:
-  https://static.rapidonline.com/pdf/75-0040_v1.pdf
 */
 
 #include <Servo.h>
