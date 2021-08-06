@@ -3,7 +3,6 @@
 * [Gerenal Info](#general-info)
 * [FAQ](#faq)
 * [Important Notice](#important-notice)
-* [About Author](#about-author)
 
 ## General Info
 1) Function of Robot Arm (ver. 1): Able to extend out to pick up a 100N Load, then drop it off at the same location.
@@ -31,6 +30,3 @@ This program will only work properly if:
   servoR.write(90);
   servoC.write(25);
   ```
-
-## About Author
-Author: Lewis Ong YS 😃
