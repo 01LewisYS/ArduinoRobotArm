@@ -5,11 +5,13 @@
 * [Important Notice](#important-notice)
 
 ## General Info
-Function of Robot Arm (Mark I): 
-* Picks up a 100N object at a location, and dropping it off the object at the _same_ location.
+Robot Arm (Mark I): 
+* Function: Picks up a 100N object at a location, and dropping it off the object at the _same_ location.
+* Video: [Arduino 4DOF Robot Arm (Mark I): Picking Up & Dropping Off 100N Load](https://www.youtube.com/watch?v=N_4QJMrR-Z4)
 
-Function of Robot Arm (Mark II):
-* Picks up a 100N object at a location, but drops off the object at a _different_ location by rotating itself to a different direction for drop off.
+Robot Arm (Mark II):
+* Function: Picks up a 100N object at a location, but drops off the object at a _different_ location by rotating itself to a different direction for drop off.
+* Video: [Arduino 4DOF Robot Arm (Mark II): Picking Up & Dropping Off 100N Load](https://www.youtube.com/watch?v=Gq96fXNVIpc)
 
 Micro Servos & Functions:
 1) Left servo (servoL) controls the height of clamp from the ground. 
